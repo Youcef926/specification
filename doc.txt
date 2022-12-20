@@ -1,0 +1,9 @@
+Final project : Ecom website.
+Features : check the details of a product.
+	   sign up to the page.
+	   login to the page.
+	   list of product from API.
+	   Put the product in the cart.
+	   increase the number of the same product buy from the cart.	
+	   "buy the product".
+	   
